@@ -46,5 +46,13 @@ This project is an AI-powered assistant designed to catch skin diseases early wh
 
 ---
 
+### 🖼️ Output Screenshots
+1. **Home Interface**
+   <img width="775" height="436" alt="image" src="https://github.com/user-attachments/assets/34acfefe-2e59-49d0-a535-4d88023daee3" />
+2. **Image Preprocessing**
+   <img width="778" height="327" alt="image" src="https://github.com/user-attachments/assets/ae28d948-134e-4ef7-ad62-bec23e35efdf" />
+
+---   
+
 ### ⚖️ Ethical Note
 This tool is built to assist doctors, not replace them. We prioritize data security and patient privacy, and we always recommend a professional biopsy for a final medical confirmation.
