@@ -47,12 +47,18 @@ This project is an AI-powered assistant designed to catch skin diseases early wh
 ---
 
 ### 🖼️ Output Screenshots
-1. **Home Interface**
-   <img width="775" height="436" alt="image" src="https://github.com/user-attachments/assets/34acfefe-2e59-49d0-a535-4d88023daee3" />
-2. **Image Preprocessing**
-   <img width="778" height="327" alt="image" src="https://github.com/user-attachments/assets/ae28d948-134e-4ef7-ad62-bec23e35efdf" />
 
----   
+#### 1. Home Interface
+The main dashboard where users interact with the application and upload skin lesion images for analysis.
+<br>
+<img width="775" alt="Home Interface" src="https://github.com/user-attachments/assets/34acfefe-2e59-49d0-a535-4d88023daee3" />
+
+#### 2. Image Preprocessing
+Visual representation of the data cleaning phase, showing how the system removes noise and artifacts to improve prediction accuracy.
+<br>
+<img width="778" alt="Image Preprocessing" src="https://github.com/user-attachments/assets/ae28d948-134e-4ef7-ad62-bec23e35efdf" />
+
+---
 
 ### ⚖️ Ethical Note
 This tool is built to assist doctors, not replace them. We prioritize data security and patient privacy, and we always recommend a professional biopsy for a final medical confirmation.
